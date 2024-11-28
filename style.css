@@ -1,0 +1,74 @@
+*{
+    font-family: "Playfair Display", serif;
+}
+header{
+    background-color: #ffb1a1;
+}
+header a{
+    color: #773b59;
+}
+.nav-item a{
+    color: #773b59;
+}
+#boton-perfil {
+    background-color: #773b59;
+}
+.nav-item a:hover{
+    color: #be83e1;
+}
+#app{
+    color: #773b59;
+}
+.boton-cv{
+    background-color: #ffb1a1;
+    color: #773b59;
+    border-color: #773b59;
+}
+.boton-cv a:hover{
+    background-color: #773b59;
+}
+#habilidades{
+    background-color: #f0bdb3;
+    color:#73395a;
+}
+.front-end a{
+    color:#73395a;
+}
+.btn-proyectos{
+    background-color: #773b59;
+    border-color: #773b59;
+}
+.btn-proyectos a{
+    text-decoration: none;
+    color: #f0bdb3;
+}
+
+.card .card_title{
+    color: #73395a;
+}
+.cursos{
+    color: #73395a;
+}
+#contacto-section{
+    background-color: #ffb1a1;
+}
+#color-contacto{
+    color:#73395a;
+}
+#btn-contacto{
+    background-color: #73395a;
+    color: #ffb1a1;
+}
+#btn-contacto:hover{
+    background-color: #9a45cc;
+}
+.uno{
+    color: #9a45cc;
+}
+footer P{
+    color: #73395a;
+}
+footer p a{
+    text-decoration: none;
+    color: #9a45cc;
+}
